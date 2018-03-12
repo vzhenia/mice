@@ -130,6 +130,6 @@
 	z-index: 0;
 }
 body{
-	background-image: url('img/background.jpeg');
+	background-image: url('./img/background.jpeg');
 	background-size: cover;
 }
